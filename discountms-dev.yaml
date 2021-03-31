@@ -1,0 +1,11 @@
+discountdata.discountmap.FURNISHING: 0.0
+discountdata.discountmap.KITCHENELECTRONIC: 0.3
+discountdata.discountmap.MEDICALEQUIPMENT: 0.0
+discountdata.discountmap.MOBILEPHONE: 0.0
+discountdata.discountmap.MUSICINSTRUMENT: 5.9
+discountdata.discountmap.TOY: 0.00
+
+zipkin.url: http://localhost:9411/
+rabbitmq.host: rabbitmq-master
+rabbitmq.port: "5672"
+discountms.eureka.url: http://localhost:8761/eureka
